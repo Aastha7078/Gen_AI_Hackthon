@@ -51,7 +51,7 @@ AI Wellness Companion is a modern, intelligent web application designed to suppo
 
 ## 🚀 Live Demo
 
-Experience the application at: [Your-Demo-URL-Here](#)
+Experience the application at: https://ai-wellness-website-kcjd.bolt.host/(#)
 
 ## 📱 Screenshots
 
